@@ -1,6 +1,7 @@
 # Browser Tests CLI
 
 Browser Tests CLI is a Node command line application that is capable of performing automated tests on web pages and logging the results. Currently supported actions are click, evaluate, download, captcha.
+![](https://raw.githubusercontent.com/Brandon00x/BrowserTestsCLI/main/tests/browsertestsgif.gif)
 
 ## Installation
 
