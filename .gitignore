@@ -1,0 +1,8 @@
+/private
+./private
+/logs/fails.txt
+/logs/success.txt
+/node_modules
+.DS_store
+./btlogs.json
+.btlogs.json

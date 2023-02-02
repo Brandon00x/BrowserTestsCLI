@@ -1,0 +1,5 @@
+#header-burger
+#site-menu > section.burger-settings > div > div.burger-theme > div.burger-theme-dark > a > div
+#header-burger
+#site-menu > section.burger-settings > div > div.burger-theme > div.burger-theme-light > a > div
+#main > section.listing.listing-top.with-feature > ul > li:nth-child(1) > header > h2 > a

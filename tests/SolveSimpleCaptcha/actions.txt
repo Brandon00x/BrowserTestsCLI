@@ -1,0 +1,8 @@
+click
+captcha
+inputCaptcha
+captcha
+inputCaptcha
+captcha
+inputCaptcha
+click
